@@ -1,0 +1,77 @@
+h1 {
+color: rgb(124, 68, 255);
+background-color: black;
+text-align: center;
+padding: 20px;
+text-transform: uppercase;
+}
+img {
+    width: 610px;    
+    margin: 20px;
+
+    border: 5px solid rgb(68, 0, 255);
+
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(68, 0, 255);
+}
+
+.lolo  {
+     border: 5px solid rgb(82, 13, 55);
+
+}
+
+.gogo {
+    border-bottom: 5px solid rgb(60, 0, 66);
+}
+
+h2 {
+color: rgb(124, 68, 255);
+font-size: 40px;
+text-transform: capitalize;
+}
+p {
+    color: blue;
+}
+
+.ror {
+    border-bottom: 5px solid rgb(126, 86, 167);
+
+}
+
+li {
+    color: blue;
+}
+.eoe {
+    text-decoration: underline;
+}
+
+ span {
+    color: brown;
+    font-style: italic;
+ }
+ a {
+    color: aquamarine;
+ }
+ .ooo {
+    color: rgb(212, 0, 255);
+ }
+
+ .ouo {
+    list-style: square;
+ }
+ .lol {
+    border: 3px solid red;
+    border-bottom: 3px solid yellowgreen;
+ }
+
+ .mid {
+    vertical-align: middle;
+ }
+ .hohohono {
+    background-color: rgb(255, 0, 0);
+ }
+ .lel {
+    list-style-position: inside;
+ }
